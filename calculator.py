@@ -1,7 +1,7 @@
 num1 = float(input("introduce el primer numero:"))
 num2 = float(input("introduce el segundo numero"))
 
-opcion 0
+opcion = 0
 while True :
     print("""
     Dime, ¿qué quieres hacer?
